@@ -1,6 +1,6 @@
 documentation_complete: true
 
-prodtype: sle12,sle15
+prodtype: sle12,sle15,opensuse
 
 title: 'Never Automatically Remove or Disable Emergency Administrator Accounts'
 
