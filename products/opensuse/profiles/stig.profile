@@ -41,7 +41,7 @@ selections:
     - account_emergency_admin
     - account_disable_post_pw_expiration
     - account_emergency_admin
-    - var_accounts_authorized_local_users_regex=sle15
+    - var_accounts_authorized_local_users_regex=opensuse
     - accounts_authorized_local_users
     - accounts_have_homedir_login_defs
     - var_accounts_max_concurrent_login_sessions=10
